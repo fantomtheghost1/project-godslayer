@@ -1,2 +1,3 @@
 # roguelike-godot
-### **Change Log**
+---
+### Change Log
