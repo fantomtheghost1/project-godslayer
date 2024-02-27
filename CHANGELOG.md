@@ -1,4 +1,7 @@
 # Roguelike Godot
+### Version 0.13
+- Added gunfire sound effect
+
 ### Version 0.12
 - Added currency system
 - Reworked player and enemy health and coins into a generic stats component that they both utilize, cutting down on redundant code
