@@ -1,4 +1,11 @@
 # Roguelike Godot
+### Version 0.12
+- Added currency system
+- Reworked player and enemy health and coins into a generic stats component that they both utilize, cutting down on redundent code
+- Started on class abilities
+- Added screen shake functionality and a screen shake to gunfire
+- Created a rudimentary test room to test out enemy spawns
+
 ### Version 0.11
 - Added dialogue system
 - Added bullet counts and a reloading system
