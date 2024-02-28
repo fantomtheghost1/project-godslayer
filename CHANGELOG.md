@@ -1,4 +1,11 @@
 # Roguelike Godot
+### Version 0.14
+- Added fullscreen by default
+- Added a quit button
+- Added a health bar component that can be added to any enemy that has the stats component
+- Fixed a bug with coins multiplying for no reason
+- Cut down on redundant and unclean code some more
+
 ### Version 0.13
 - Added gunfire sound effect
 
