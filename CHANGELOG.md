@@ -1,4 +1,14 @@
 # Roguelike Godot
+### Version 0.2
+- Fully implemented the first class ability for the cowboy class
+- Added pitch variation to the gun fire so that the sound isn't so monotonous
+- Added a new ability one component so that adding new class abilities for new classes won't be as difficult
+- Changed interact input map so that there aren't collisions
+- Added secondary mapping for the arrow keys for people crazy enough to use them
+- Fixed room spawns again
+- Added a method that will detect when all enemies have been defeated in a given room by the player
+- Fixed health management for the player so you can take damage again (you're welcome)
+
 ### Version 0.14
 - Added fullscreen by default
 - Added a quit button
