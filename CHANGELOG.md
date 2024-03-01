@@ -1,5 +1,10 @@
 # Roguelike Godot
-## Version 0.21
+## Version 0.2.1.1
+### General Housekeeping
+- Removed unused .sh linux files
+- Changed version number convention
+
+## Version 0.2.1
 ### Features
 - Added simple enemy hit animation
 - Created the second class ability
@@ -23,7 +28,7 @@
 - Changed interact input map so that there aren't collisions
 - Fixed room spawns again
 
-## Version 0.14
+## Version 0.1.4
 ### Features
 - Added a quit button
 ### General Housekeeping
@@ -33,11 +38,11 @@
 ### Bug Fixes
 - Fixed a bug with coins multiplying for no reason
 
-## Version 0.13
+## Version 0.1.3
 ### Features
 - Added gunfire sound effect
 
-## Version 0.12
+## Version 0.1.2
 ### Features
 - Added currency system
 - Started on class abilities
@@ -46,7 +51,7 @@
 - Reworked player and enemy health and coins into a generic stats component that they both utilize, cutting down on redundant code
 - Created a rudimentary test room to test out enemy spawns
 
-## Version 0.11
+## Version 0.1.1
 ### Features
 - Added dialogue system
 - Added bullet counts and a reloading system
