@@ -1,5 +1,4 @@
 # Roguelike Godot
-# Roguelike Godot
 ### Version 0.2.2
 #### Features
 - Added time slowdown when you use a class ability
