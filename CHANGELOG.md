@@ -1,4 +1,15 @@
 # Roguelike Godot
+# Roguelike Godot
+### Version 0.2.2
+#### Features
+- Added time slowdown when you use a class ability
+- Added ability cooldowns
+- Added gui feedback for ability cooldowns
+#### General Housekeeping
+- Moved everything regarding abilities into the ability component so things are more cohesive
+#### Bug Fixes
+- Fixed camera shake not working for abilities
+
 ### Version 0.2.1.1
 #### General Housekeeping
 - Removed unused .sh linux files
@@ -29,7 +40,7 @@
 - Fixed room spawns again
 
 ### Version 0.1.4
-#### Features
+#### Features 
 - Added a quit button
 #### General Housekeeping
 - Cut down on redundant and unclean code some more
