@@ -1,4 +1,18 @@
 # Roguelike Godot
+### Version 0.2.3
+#### Features
+- Added a wall object that stops player and enemy movement
+- Added the ability to hit headshots, which will deal 1.5x damage
+- Added an item variant to the weapon that can be picked up
+#### General Housekeeping
+- Added a keybind for exiting game for quicker debugging
+- Completely reworked enemy damage handling so that it is handled within the entity itself and not from the bullet
+- Reworked abilities slightly and made the code easier to read
+#### Bug Fixes
+- Made the second ability unable to trigger if there are no enemies nearby
+- Stopped abilities from targeting walls
+- Fixed bugs that arose from the rework
+
 ### Version 0.2.2
 #### Features
 - Added time slowdown when you use a class ability
