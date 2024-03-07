@@ -1,4 +1,17 @@
-# Roguelike Godot
+# Project Godslayer
+### Version 0.2.4
+#### Features
+- Added names to guns and added a gun name to the ui
+- Made rooms actually have a functioning wave system and delay between waves
+- Added the ability to have automatic weapons
+#### General Housekeeping
+- Changed name to Project Godslayer since that's a better name than "Roguelike Godot" xd
+- Gave interactable weapons the ability to have their stats changed without having to edit the gun stats itself (sorry hard to explain xd)
+- Gave interactable weapons the ability to not be destroyed when picked up
+#### Bug Fixes
+- Fixed ability 2 not having the time delay applied
+- Fixed ability times not being properly displayed
+
 ### Version 0.2.3
 #### Features
 - Added a wall object that stops player and enemy movement
