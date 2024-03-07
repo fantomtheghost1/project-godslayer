@@ -1,4 +1,18 @@
 # Project Godslayer
+### Version 0.2.5
+#### Features
+- Made it so you can reload by clicking when you're out of ammo
+- Added a chest item that drops the item instances made in the second to last update
+- Added crossbow
+- Added sniper
+#### General Housekeeping
+- Added a bullet scene parameter to the shoot function so that adding non-typical bullets is easier
+- Added fire cooldown and reload time as accessible variables so that editing various weapon values is easier
+- Changed the way damage was handled so that its different between weapons
+- Allowed the player speed to be accessed externally for future use
+#### Bug Fixes
+- Fixed spam click reloading breaking the timer
+
 ### Version 0.2.4
 #### Features
 - Added names to guns and added a gun name to the ui
