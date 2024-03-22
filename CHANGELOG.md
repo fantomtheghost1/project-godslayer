@@ -1,4 +1,17 @@
 # Project Godslayer
+### Version 0.2.6
+#### Features
+- Made rooms drop a chest when all enemies are defeated
+- Added wave feedback so you know what wave you are currently on and how many waves a room may have before activating it
+- Removed the ability system to make way for a new revamped system
+- Added a debuff system with a fire debuff for the moment
+#### General Housekeeping
+- Added a gun database singleton 
+- Added a keyword database singleton
+- Turned off vsync so that there wouldn't be screen tearing
+#### Bug Fixes
+- Fixed room spawns so enemies don't spawn directly in front of the player
+
 ### Version 0.2.5
 #### Features
 - Made it so you can reload by clicking when you're out of ammo
